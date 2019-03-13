@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "937173596312",
+    "firebase_url": "https://fir-cd2fe.firebaseio.com",
+    "project_id": "fir-cd2fe",
+    "storage_bucket": "fir-cd2fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937173596312:android:c57479105786152a",
+        "android_client_info": {
+          "package_name": "com.example.acer.databaseacess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937173596312-2vpl7g2rtvcbnfcaunig6qid84upqho2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLInSMsuUTZsR_a4iVoIF72twqiN7Iwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937173596312:android:e0e84696a9c8afdc",
+        "android_client_info": {
+          "package_name": "com.example.vijjereddy.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937173596312-2vpl7g2rtvcbnfcaunig6qid84upqho2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLInSMsuUTZsR_a4iVoIF72twqiN7Iwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
